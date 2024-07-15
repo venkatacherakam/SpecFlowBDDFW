@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace TruGreen.Features
+namespace FreshWork.Features
 {
     using TechTalk.SpecFlow;
     using System;
