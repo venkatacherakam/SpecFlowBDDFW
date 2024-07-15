@@ -11186,9 +11186,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal\\CSharpProject\\SpecFlowBDDFW\\TrueGreen\\TruGreen.csproj",
-      "projectName": "TruGreen",
-      "projectPath": "C:\\Personal\\CSharpProject\\SpecFlowBDDFW\\TrueGreen\\TruGreen.csproj",
+      "projectUniqueName": "C:\\Personal\\CSharpProject\\SpecFlowBDDFW\\TrueGreen\\FreshWork.csproj",
+      "projectName": "FreshWork",
+      "projectPath": "C:\\Personal\\CSharpProject\\SpecFlowBDDFW\\TrueGreen\\FreshWork.csproj",
       "packagesPath": "C:\\Users\\vcherakam\\.nuget\\packages\\",
       "outputPath": "C:\\Personal\\CSharpProject\\SpecFlowBDDFW\\TrueGreen\\obj\\",
       "projectStyle": "PackageReference",
