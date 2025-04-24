@@ -1,5 +1,5 @@
-The user needs to clone the repository in their local system.
-Now click on the solution and try to build the solution.
-Now Click on the test explorer and select the build 
-Now right-click on the build id and click on the run.
+The user needs to clone the repository on their local system.
+Now, you can just click on the solution and try to build it.
+Now, click on the test explorer and select the build 
+Now, right-click on the build ID and click on the run.
 Please follow the above rules
